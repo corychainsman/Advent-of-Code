@@ -1,1 +1,3 @@
-I pasted the prompt straight into Windsurf (Version: 1.0.5), with the "new" Anthropic Claude 3.5 Sonnet model. It created the python file, and a placeholder (empty) input file, and executed it for me after I pasted in my input.
+For 01, I pasted the prompt straight into Windsurf (Version: 1.0.5), with the "new" Anthropic Claude 3.5 Sonnet model. It created the python file, and a placeholder (empty) input file, and executed it for me after I pasted in my input.
+
+for 01b, i pasted the prompt into a new prompt file (01b_prompt.txt) and asked Windsurf to look at that file. It created a python file (though it didn't follow my naming convention) and an input file, and offered to execute it for me. I had to prompt it to reuse 01_input.txt, then it executed the python file and gave me the correct output.
