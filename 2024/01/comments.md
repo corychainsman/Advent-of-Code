@@ -1,0 +1,1 @@
+I pasted the prompt straight into Windsurf (Version: 1.0.5), with the "new" Anthropic Claude 3.5 Sonnet model. It created the python file, and a placeholder (empty) input file, and executed it for me after I pasted in my input.
